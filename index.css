@@ -35,7 +35,7 @@ background-color: #ddffdd;
 	border: solid;
 	padding: 5px;
 	margin: 10px;
-
+	float: left;
 }
 .div2
  {
@@ -45,6 +45,7 @@ background-color: #ddffdd;
 	border: solid;
 	padding: 5px;
 	margin: 10px;
+	float: left;
 }
 .div3
  {
@@ -54,7 +55,7 @@ background-color: #ddffdd;
 	border: solid;
 	padding: 5px;
 	margin: 10px;
-
+	float: left;
 }
 .div4
  {
@@ -64,6 +65,7 @@ background-color: #ddffdd;
 	border: solid;
 	padding: 5px;
 	margin: 10px;
+	float: left;
 }
 .div5
  {
@@ -73,6 +75,7 @@ background-color: #ddffdd;
 	border: solid;
 	padding: 5px;
 	margin: 10px;
+	float: left;
 
 }
 .div6
@@ -83,6 +86,7 @@ background-color: #ddffdd;
 	border: solid;
 	padding: 5px;
 	margin: 10px;
+	float: left;
 }
 .div7
  {
@@ -92,7 +96,7 @@ background-color: #ddffdd;
 	border: solid;
 	padding: 5px;
 	margin: 10px;
-
+	float: left;
 }
 .div8
  {
@@ -102,6 +106,7 @@ background-color: #ddffdd;
 	border: solid;
 	padding: 5px;
 	margin: 10px;
+	float: left;
 }
 .div9
  {
@@ -111,7 +116,7 @@ background-color: #ddffdd;
 	border: solid;
 	padding: 5px;
 	margin: 10px;
-
+	float: left;
 }
 .div10
  {
@@ -121,11 +126,5 @@ background-color: #ddffdd;
 	border: solid;
 	padding: 5px;
 	margin: 10px;
-
-
-hover {
-	color: green;
-	background-color: #afeeee; 
-}
-
+	float: left;
 }
